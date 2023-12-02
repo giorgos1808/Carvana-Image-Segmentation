@@ -41,3 +41,8 @@ To run the project, follow these steps:
    ```bash
    conda env create -f ptorch.yml
    conda activate ptorch
+
+## Dataset:
+
+The Carvana Image Masking Challenge dataset can be found [here](https://www.kaggle.com/competitions/carvana-image-masking-challenge/data).
+
